@@ -7,3 +7,5 @@ venv/
 *.kate-swp
 .*.kate-swp
 *.swp
+user_memories.json
+*.json
