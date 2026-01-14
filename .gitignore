@@ -9,3 +9,5 @@ venv/
 *.swp
 user_memories.json
 *.json
+user_memories.json
+*.json
